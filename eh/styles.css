@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    text-align: center;
+}
+
+h1 {
+    color: #2c3e50;
+    font-size: 2.5em;
+}
+
+h3 {
+    color: #16a085;
+    margin-top: 10px;
+}
+
+.section-title {
+    font-size: 1.5em;
+    color: #8e44ad;
+}
+
+.about-me {
+    max-width: 800px;
+    margin: 20px auto;
+    line-height: 1.6;
+}
+
+ul.about-me {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul.about-me li {
+    margin: 5px 0;
+}
+
+.social-links {
+    margin-top: 20px;
+}
+
+.social-links a {
+    margin: 0 10px;
+}
+
+.tools {
+    margin-top: 20px;
+}
+
+.tools img {
+    margin: 10px;
+}
+
+p img {
+    margin-top: 10px;
+}
